@@ -2,4 +2,4 @@
 
 [Watch my intro](./introvideo.mp4)
 
-*If the preview is not available, please download the video to view it.*
+*Note: If the video preview doesn't load, please click "View raw" or download the file to watch.*
